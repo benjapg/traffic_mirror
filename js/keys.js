@@ -23,7 +23,7 @@ var keys = {
 		urls: [
 			{
 				symbol: 'calendar-o',
-				url: 'CALENDAR.ics ADDRESS'
+				url: 'https://calendar.google.com/calendar/ical/benjamin.paul.bg%40gmail.com/public/basic.ics'
 				// For Google Calendar, it's the 'Private Address' under Calendar Settings when viewing your Calendar
 			},
 			{
@@ -35,11 +35,11 @@ var keys = {
 	birthdays: [
 		{
 			day:14,
-			month:March,
+			month:3,
 			name:'Holly'
 		},{
 			day:15,
-			month:January,
+			month:1,
 			name:'Ben'
 		}
 	]
