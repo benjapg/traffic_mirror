@@ -23,7 +23,7 @@ var keys = {
 		urls: [
 			{
 				symbol: 'calendar-o',
-				url: 'https://calendar.google.com/calendar/ical/benjamin.paul.bg%40gmail.com/public/basic.ics'
+				url: 'https://calendar.google.com/calendar/ical/benjamin.paul.bg%40gmail.com/private-7895394d4863c8bd3c2e60c5f6ccb03b/basic.ics'
 				// For Google Calendar, it's the 'Private Address' under Calendar Settings when viewing your Calendar
 			},
 			{
