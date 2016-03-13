@@ -8,8 +8,8 @@ var keys = {
     },
 	traffic: {
 		params: {
-			origin: 'ChIJUctVeX-qToYR_TRap--d99Q',
-			destination: 'ChIJ7-fWuITnS4YRJG8fRn50h9Q',
+			origin: 'place_id: ChIJUctVeX-qToYR_TRap--d99Q',
+			destination: 'place_id: ChIJ7-fWuITnS4YRJG8fRn50h9Q',
             // Use the PlaceID Finder: https://developers.google.com/maps/documentation/javascript/examples/places-placeid-finder
 			departure_time: 'now',
 			key: 'AIzaSyDHILVSmsM8NEqOdyd9I9XoppPp3jkf0Do'
